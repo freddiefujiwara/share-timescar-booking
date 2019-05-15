@@ -1,0 +1,23 @@
+{
+  "name": "share-timescar-booking",
+  "version": "1.0.0",
+  "description": "Booking command for share.timescar.jp",
+  "main": "codecept.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddiefujiwara/share-timescar-booking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freddiefujiwara/share-timescar-booking/issues"
+  },
+  "homepage": "https://github.com/freddiefujiwara/share-timescar-booking#readme",
+  "devDependencies": {
+    "codeceptjs": "^2.1.2",
+    "puppeteer": "^1.16.0"
+  }
+}
